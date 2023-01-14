@@ -6,6 +6,6 @@ public class Main {
         newCar.build();
         newCar.buy();
         newCar.buy();
-        newCar.buy();
+      //main222222222
     }
 }
