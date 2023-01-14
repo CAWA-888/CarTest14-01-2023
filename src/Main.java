@@ -5,7 +5,5 @@ public class Main {
         Car newCar = new Car();
         newCar.build();
         newCar.buy();
-        newCar.buy();
-        newCar.buy();
     }
 }
